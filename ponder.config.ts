@@ -26,12 +26,6 @@ export default createConfig({
       address: "0xe7351fd770a37282b91d153ee690b63579d6dd7f",
       abi: DlnDestinationBase,
       startBlock: 1371680
-    },
-    CrosschainForwarderArbitrum: {
-      network: "arbitrum",
-      address: "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251",
-      abi: CrosschainForwarderArbitrum,
-      startBlock: 17444924
     }
   }
 });
